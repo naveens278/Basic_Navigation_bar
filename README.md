@@ -1,6 +1,6 @@
 📜 How to Use
 1️⃣ Download or Clone the project:
-[git clone https://github.com/yourusername/nav-bar-project.git]
+[gitclonehttps://github.com/yourusername/nav-bar-project.git]
 2️⃣ Open the index.html file in your browser.
 3️⃣ Hover over navigation links to see the underline animation.
 4️⃣ Click inside the search bar to expand it.
